@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.20.4](https://github.com/wundergraph/graphql-go-tools/compare/v2.20.3...v2.20.4) (2026-09-14)
+
+
+### Bug Fixes
+
+* propagate invalid variable JSON errors ([#1623](https://github.com/wundergraph/graphql-go-tools/issues/1623)) ([076a96f](https://github.com/wundergraph/graphql-go-tools/commit/076a96fdc86b25291ab707180f3f0bec3007d6ef))
+
 ## [2.20.3](https://github.com/wundergraph/graphql-go-tools/compare/v2.20.2...v2.20.3) (2026-09-08)
 
 
